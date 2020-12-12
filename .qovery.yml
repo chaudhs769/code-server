@@ -1,12 +1,12 @@
 ---
 application:
-  name: "coder"
-  project: "u"
+  name: "k"
+  project: "d"
   organization: "QoveryCommunity"
 routers:
-- name: "main-coder"
+- name: "main-k"
   routes:
-  - application_name: "coder"
+  - application_name: "k"
     paths:
     - "/"
 
